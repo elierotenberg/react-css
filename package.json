@@ -1,0 +1,30 @@
+{
+  "name": "react-css",
+  "version": "0.0.1",
+  "description": "Convert plain CSS into React-style camelCased properties object, and optionally auto-prefixes each property.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:elierotenberg/react-css.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "autoprefixer"
+  ],
+  "author": "Elie Rotenberg <elie@rotenberg.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elierotenberg/react-css/issues"
+  },
+  "homepage": "https://github.com/elierotenberg/react-css",
+  "dependencies": {
+    "autoprefixer": "^2.2.0",
+    "css-parse": "^2.0.0",
+    "lodash": "^2.4.1",
+    "to-camel-case": "^0.2.1"
+  }
+}
