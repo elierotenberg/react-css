@@ -1,6 +1,6 @@
 {
   "name": "react-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert plain CSS into React-style camelCased properties object, and optionally auto-prefixes each property.",
   "main": "index.js",
   "scripts": {
